@@ -4,9 +4,15 @@
 
 `git clone <repository_url>`: Clone a repository from the specified URL to your local machine.
 
+`git clone –branch <branch_name> <repository_url>`: Clone a specific branch from a repository.
+
 `git add <file>`: Stage changes to be committed.
 
+`git add . or git add –all`: Add all modified and new files to the staging area.
+
 `git commit -m "message"`: Commit the staged changes with a descriptive message.
+
+`git commit -a -m "message" or git commit --all`: Commit all modified and deleted files in the repository without explicitly using git add to stage the changes.
 
 `git restore <file>`: Discard changes in working directory
 
@@ -14,6 +20,20 @@
 
 `git status`: Show the working directory status, including staged and unstaged changes.
 
+`git status --ignored`: Display ignored files in addition to the regular status output.
+
 `git log`: Show the commit history.
 
 `git diff`: Show the changes between commits, working directory, and staging area.
+
+`git rm <file>`: Remove a file from both the working directory and the repository, staging the deletion.
+
+=> Branching and Merging
+
+=> Advanced Commands
+
+=> Remote Repositories
+
+=> Working with Remote Repositories
+
+=> Comparing and Checking
