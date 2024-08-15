@@ -1,0 +1,19 @@
+=> Basic Commands
+
+`git init`: Initialize a new Git repository in the current directory.
+
+`git clone <repository_url>`: Clone a repository from the specified URL to your local machine.
+
+`git add <file>`: Stage changes to be committed.
+
+`git commit -m "message"`: Commit the staged changes with a descriptive message.
+
+`git restore <file>`: Discard changes in working directory
+
+`git restore --staged <file>`: To unstage
+
+`git status`: Show the working directory status, including staged and unstaged changes.
+
+`git log`: Show the commit history.
+
+`git diff`: Show the changes between commits, working directory, and staging area.
