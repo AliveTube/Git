@@ -94,4 +94,4 @@
 
 `git push --all`: Pushes all branches to the remote repository.
 
-=> Comparing and Checking
+=> Comparing and Checking (Later)
