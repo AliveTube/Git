@@ -38,6 +38,20 @@
 
 => Branching and Merging
 
+`git branch`: List all branches in the repository or create a new branch if a branch name is provided.
+
+`git branch <branch-name>`: Creates a new branch with the specified name.
+
+`git branch -d <branch-name>`: Deletes the specified branch.
+
+`git checkout <branch>`: Switch to the specified branch.
+
+`git checkout -b <branch>`: Create a new branch and switch to it.
+
+`git merge <branch>`: Merge the specified branch into the current branch.
+
+`git rebase <branch>`: Reapply commits on top of another base tip.
+
 => Advanced Commands
 
 => Remote Repositories
