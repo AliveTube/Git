@@ -9,4 +9,5 @@ signed main(){
     cout << "Fourth Commit" << endl;
     cout << "Fifth Commit" << endl;
     cout << "A CONFLICT !!!" << endl;
+    cout << "Conflict ?!" << endl;
 }
