@@ -40,6 +40,10 @@
 
 `git branch`: List all branches in the repository or create a new branch if a branch name is provided.
 
+`git branch -a`: Lists all local and remote branches.
+
+`git branch -r`: Lists all remote branches.
+
 `git branch <branch-name>`: Creates a new branch with the specified name.
 
 `git branch -d <branch-name>`: Deletes the specified branch.
@@ -51,6 +55,8 @@
 `git merge <branch>`: Merge the specified branch into the current branch.
 
 `git rebase <branch>`: Reapply commits on top of another base tip.
+
+
 
 => Advanced Commands
 
