@@ -56,8 +56,6 @@
 
 `git rebase <branch>`: Reapply commits on top of another base tip.
 
-
-
 => Advanced Commands
 
 => Remote Repositories
