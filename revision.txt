@@ -84,7 +84,7 @@
 
 `git fetch <remote>`: Retrieves change from the specified remote repository.
 
-`git pull <remote>`: Fetches changes from the specified remote repository and merges them into the current branch.
+`git pull <remote> <branch>`: Fetches changes from the specified remote repository and merges them into the current branch.
 
 `git push`: Pushes local commits to the remote repository.
 
